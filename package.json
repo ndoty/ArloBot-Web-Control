@@ -21,7 +21,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/ndoty/iRobot-Create-Node-JS-Web-Control.git"
+    "url": "git://github.com/ndoty/ArloBot-Node-JS-Web-Control.git"
   },
   "keywords": [
     "ArloBot",
@@ -38,6 +38,6 @@
   "author": "Nicholas Doty",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ndoty/iRobot-Create-Node-JS-Web-Control/issues"
+    "url": "https://github.com/ndoty/ArloBot-Node-JS-Web-Control/issues"
   }
 }

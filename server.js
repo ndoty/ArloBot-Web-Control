@@ -2,7 +2,7 @@
     process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0;
 
     var BotConnection           = require('arlo-bot'),
-        BotSerial               = 'COM4',
+        BotSerial               = 'COM6',
         express                 = require('express'),
         csrgen                  = require('csr-gen'),
         //fs                      = require('fs'),
