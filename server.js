@@ -219,4 +219,8 @@
     BotConnection.on('ready', function () {
         botReady(this);
     });
+
+    BotConnection.on('error--opening', function () {
+        console.log('Error opening');
+    });
 }).call(this);
